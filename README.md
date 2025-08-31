@@ -1,6 +1,6 @@
 # 🖥️ Computer Graphics Project
 
-## 🎯 Grade 16/20 
+## 🎯 Grade 17/20 
 
 This repository contains the practical work developed for the **Computer Graphics** course (3rd year, Computer Science).  
 The project is divided into **four phases**, progressively extending the capabilities of a **C++ OpenGL engine** and a **geometry generator**.
@@ -83,7 +83,11 @@ Each phase builds upon the previous one:
 
 ## 🚀 Running the Project
 
-Each phase contains its own generator and engine programs. To Run:
+Each phase contains its own generator and engine programs. To Run on Linux do:
+```bash
+cmake CMakeLists.txt
+make
+```
 
 - Use the generator to create .3d model files (plane, sphere, torus, Bezier surface, etc.).
 - Launch the engine with a given XML scene file to visualize it.
