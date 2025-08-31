@@ -64,9 +64,9 @@ Each phase builds upon the previous one:
 
 3. **Phase 3**
 
-   <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/e58c8b1a-1b3f-4f3b-9f42-c57c0ac9f383" />
+   <img width="700" height="750" alt="image" src="https://github.com/user-attachments/assets/39722336-86ae-4ca4-9094-cbf72552577d" />
 
-4. **Phase 4**
+5. **Phase 4**
 
     <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0247fcd8-550f-4121-9acd-d1ec22c0341c" />
 
